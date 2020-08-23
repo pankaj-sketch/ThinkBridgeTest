@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52846" started-at="2020-08-23T13:58:21 IST" finished-at="2020-08-23T13:59:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52846" started-at="2020-08-23T13:58:21 IST" finished-at="2020-08-23T13:59:14 IST">
+      <class name="RegisterPage.ThinkRegister">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:RegisterPage.ThinkRegister@49fc609f]" name="OpenBrowser" duration-ms="49223" started-at="2020-08-23T13:58:22 IST" finished-at="2020-08-23T13:59:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="SelectDropDown()[pri:0, instance:RegisterPage.ThinkRegister@49fc609f]" name="SelectDropDown" duration-ms="3476" started-at="2020-08-23T13:59:11 IST" finished-at="2020-08-23T13:59:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDropDown -->
+      </class> <!-- RegisterPage.ThinkRegister -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
